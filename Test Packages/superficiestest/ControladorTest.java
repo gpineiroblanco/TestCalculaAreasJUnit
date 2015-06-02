@@ -12,7 +12,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author oquintansocampo
+ * @author gpineiroblanco
  */
 public class ControladorTest {
 
